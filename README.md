@@ -1,16 +1,16 @@
 <div align="center">
 
-# GTA V Session Sniffer (Stand Lua plugin)
+# Session Sniffer (Stand Lua plugin)
 
-![GTA V Session Sniffer Menu](https://github.com/user-attachments/assets/ef068cfc-58aa-4401-a458-3355a50c589e)
+![Session Sniffer Menu](https://github.com/user-attachments/assets/ef068cfc-58aa-4401-a458-3355a50c589e)
 
 </div>
 
 ## Description
 
-Allows you to automatically have every usernames showing up on [Session Sniffer](https://github.com/BUZZARDGTA/GTA-V-Session-Sniffer) project,<br>
+Allows you to automatically have every usernames showing up on [Session Sniffer](https://github.com/BUZZARDGTA/Session-Sniffer) project,<br>
 by logging all players from your sessions to:
-`Stand\Lua Scripts\GTA_V_Session_Sniffer-plugin\log.txt`
+`Stand\Lua Scripts\Session_Sniffer-plugin\log.txt`
 
 <div align="center">
 
